@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <div align="center">
-  <img src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gif">
+  <a title="priya2075" href="https://github.com/priya2075" target="_top">
+    <img src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gif">
+  </a>
 </div>
 
 <!-- Sub Header -->
