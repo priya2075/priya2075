@@ -44,7 +44,9 @@ All coding-related projects are built from scratch using Visual Studio Code and 
 #
 
 <!-- stats -->
-<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=priya2075&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priya2075" /></p>
+<p>
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=priya2075&show_icons=true&locale=en&layout=compact&theme=radical" alt="priya2075" />
+</p>
 
 <!-- Languages and Tools -->
 ### 🔧 Languages and Tools:
