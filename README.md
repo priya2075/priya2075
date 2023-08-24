@@ -100,6 +100,6 @@ All coding-related projects are built from scratch using Visual Studio Code and 
 
 <div align="center">
   <a title="priya2075" href="https://github.com/priya2075" target="_top">
-    <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=250&section=footer&text=credits%20:%20Forrest%20Knight,%20ytcards,%20rahuldkjain&fontSize=10" alt="credits"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120&section=footer" alt="credits"/>
   </a>
 </div>
