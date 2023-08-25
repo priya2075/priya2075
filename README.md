@@ -93,8 +93,8 @@ All coding-related projects are built from scratch using Visual Studio Code and 
 
 ### My Projects 
 
-| Project Name        | Language & Tools  | Video              |
-| ------------------- |:----------------- | :----------------- | 
+| Project Name        | Languages & Tools  | Video              |
+| ------------------- | ----------------- | ----------------- | 
 | [Penetration Testing & Report](https://github.com/priya2075/Pentesting-Web-Application-Report) | Kali Linux | [YouTube](https://www.youtube.com/watch?v=0mozZx0MLfE) |
 | Virtualization (vMotion Live Migration) | VMware |  [YouTube](https://www.youtube.com/watch?v=BaRsem3CE8Q) |  
 | [Estate Feedback Management Application Software](https://github.com/priya2075/EFMAS)  | Javascript, HTML, CSS, Visual Studio Code | [YouTube](https://www.youtube.com/watch?v=eBHqSNuGV44) |
