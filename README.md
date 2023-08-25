@@ -86,6 +86,10 @@ All coding-related projects are built from scratch using Visual Studio Code and 
   </a>  
   -->
 </p>
+
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+
 </div>
 <br />
 
