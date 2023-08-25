@@ -86,9 +86,16 @@ All coding-related projects are built from scratch using Visual Studio Code and 
   </a>  
   -->
 </p>
+<a href="https://visualstudio.microsoft.com/">
 
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+  ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+</a>
+<a href="https://www.sublimetext.com/">
+  
+  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+
+</a>
 
 </div>
 <br />
@@ -101,9 +108,9 @@ All coding-related projects are built from scratch using Visual Studio Code and 
 | ------------------- | ----------------- | ----------------- | 
 | [Penetration Testing & Report](https://github.com/priya2075/Pentesting-Web-Application-Report) | Kali Linux | [YouTube](https://www.youtube.com/watch?v=0mozZx0MLfE) |
 | Virtualization (vMotion Live Migration) | VMware |  [YouTube](https://www.youtube.com/watch?v=BaRsem3CE8Q) |  
-| [Estate Feedback Management Application Software](https://github.com/priya2075/EFMAS)  | Javascript, HTML, CSS, Visual Studio Code | [YouTube](https://www.youtube.com/watch?v=eBHqSNuGV44) |
-| [I: Electronic Services and Protections Services Application](https://github.com/priya2075/ESPS)  | Python, Visual Studio Code | [YouTube](https://www.youtube.com/watch?v=RoGEvgmnsQg)|
-| [II: Electronic Services and Protections Services Application](https://github.com/priya2075/ESPS)  | Python, Visual Studio Code | [YouTube](https://www.youtube.com/watch?v=AtWkoOZ7RA0)|
+| [Estate Feedback Management Application System](https://github.com/priya2075/EFMAS)  | Javascript, HTML, CSS, Visual Studio Code | [YouTube](https://www.youtube.com/watch?v=eBHqSNuGV44) |
+| [I: Electronic Services and Protection Services Application](https://github.com/priya2075/ESPS)  | Python, Visual Studio Code | [YouTube](https://www.youtube.com/watch?v=RoGEvgmnsQg)|
+| [II: Electronic Services and Protection Services Application](https://github.com/priya2075/ESPS)  | Python, Visual Studio Code | [YouTube](https://www.youtube.com/watch?v=AtWkoOZ7RA0)|
 | [So Power Automated Menu System](https://github.com/priya2075/SPAMS)  | Python + PyCryptodome, Visual Studio Code, | - |
 
 #
