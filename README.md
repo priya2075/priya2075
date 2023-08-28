@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 
 <!-- Sub Header -->
 <div align="center">
-  <h1>Hello, 👋 I am Priya!</h1>
-  <h3>I am currently pursuing a part-time diploma in cybersecurity!</h3>
+  <h1>Hello there, 👋 welcome!</h1>
 </div>
-
-#
 
 <!-- body -->
 <p align="center">
