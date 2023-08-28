@@ -36,10 +36,7 @@ I have laid out a following list of projects I have worked on over the years til
 <p align="middle">
 All coding-related projects are built from scratch using Visual Studio Code and Sublime Text.
 </p>
-<p align="left">
-- 🌱 I’m currently learning: <b>CEH</b> <br />
-- 📫 How to reach me: <b>mail@iampriya.com</b> 
-</p>
+
 
 #
 
