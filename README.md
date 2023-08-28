@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- Sub Header -->
 <div align="center">
-  <h1>Hello there, 👋 welcome!</h1>
+  <h1>Hello there, 👋 I am Priya!</h1>
 </div>
 
 <!-- body -->
@@ -32,8 +32,11 @@ Here are some ideas to get you started:
 And while I am building my new career path brick by brick, <br />
 I have laid out a following list of projects I have worked on over the years till date. <br />
 </p>
-<p align="middle">
-All coding-related projects are built from scratch using Visual Studio Code and Sublime Text.
+<p align="center">
+🗝 Skills: Python, ASP.NET, and Javascript coding, Networking, and Ethical Hacking 😄
+</p>
+<p align="center">
+All coding-related projects are built from scratch using Visual Studio Code, Sublime Text, and Tumblr (Yes! Tumblr).
 </p>
 
 <!-- Footer -->
