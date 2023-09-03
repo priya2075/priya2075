@@ -36,7 +36,7 @@ I have laid out a following list of projects I have worked on over the years til
 🗝 Skills: Python, ASP.NET, and Javascript coding, Networking, and Ethical Hacking 😄
 </p>
 <p align="center">
-All coding-related projects are built from scratch using Visual Studio Code, Sublime Text, and Tumblr (Yes! Tumblr).
+All coding-related projects are built from scratch using Visual Studio Code & Sublime Text.
 </p>
 
 <!-- Footer -->
